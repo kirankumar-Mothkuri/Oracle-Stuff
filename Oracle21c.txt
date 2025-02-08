@@ -1,0 +1,14 @@
+Oracel xe21c :
+1)sys/Tiger@//mothukuri:1521/XE  as sysdba
+
+2)sys/Tiger@//mothukuri:1521/XEPDB1 as sysdba
+
+Newuser :
+create user Test identified by tiger;
+
+GRANT ALL PRIVILEGES TO Test;
+
+
+
+
+sys,sysdba,-password :admin-
